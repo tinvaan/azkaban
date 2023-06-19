@@ -1,3 +1,2 @@
-from django.db import models
+from django.db import models as db
 
-# Create your models here.
